@@ -1,4 +1,5 @@
-# Route to success - from an idea to a fully working product - agile project management guide
+# Route to success 
+### From an idea to a fully working product - agile project management guide/vision
 
 This project is for sketching out somekind of succesful project management guide/instruction/template/cheatsheet/process/way of doing things from start to finish, you name it. At least for me it has always been kinda hard to know how to start a project, what are the first steps to take, how to proceed with a plan, what agile actually is, how to deal with the customer, how to finish the final and product and deliver it to production. The coding part which lies somewhere in the middle is the most "easiest" part I think. But come up with somekind of plan and actually know what we're doing/we're are we going is the trickiest part. 
 
