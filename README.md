@@ -5,7 +5,7 @@ This project is for sketching out somekind of succesful project management guide
 
 This thing is going to evolve a lot, hopefully as time passes, while I can find good resources, have aha moments, and have a nice talks with people. Hopefully I can come with somekind of easy to digest, high level concept that I can use and share in future endeavours.
 
----
+<hr />
 This first draft is heavily based on to this wonderful article about creating a JS app from a scratch:
-https://medium.com/ladies-storm-hackathons/how-we-built-our-first-full-stack-javascript-web-app-in-three-weeks-8a4668dbd67c
----
+<https://medium.com/ladies-storm-hackathons/how-we-built-our-first-full-stack-javascript-web-app-in-three-weeks-8a4668dbd67c>
+<hr />
