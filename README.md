@@ -18,7 +18,7 @@ This first draft is heavily based on to this wonderful article about creating a 
 * [Step 6: Set up version control](#step6)
 * [Step 7: Embrace agile workflow](#step7)
 * [Step 8: CI/CD pipeline & environments](#step8)
-* [Step 9: Choose & download boilerplate](#step9)
+* [Step 9: Tooling](#step9)
 * [Step 10: Code out the features](#step11)
 * [Step 11: Choose and code the design scheme](#step12)
 * [Step 12: Find and squash bugs](#step13)
@@ -136,7 +136,7 @@ This first draft is heavily based on to this wonderful article about creating a 
 - Create dev/staging environments where you can demo your progress with the app
 
 <a name="step9" />
-### Step 9: Tools & frameworks
+### Step 9: Tooling
 - Choose tools & frameworks for the project
     - Try not to reinvent the wheel
 
@@ -147,6 +147,7 @@ This first draft is heavily based on to this wonderful article about creating a 
     - Embrace package by feature
 - Start implementing the functionality of the app
     - Pick a user story
+        - Remember to make a branch
     - User wireframe/design as your guide
     - If any questions, collaborate with the customer
 - Don't forget to do tests!
