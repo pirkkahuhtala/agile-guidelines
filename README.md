@@ -153,7 +153,7 @@ This first draft is heavily based on to this wonderful article about creating a 
 - It's coding time!
 - Decide architecture
     - Embrace package by feature
-    - Monolith or microservices application
+    - Monolith or microservices application?
 - Start implementing the functionality of the app
     - Pick a user story
         - Remember to make a branch
@@ -185,7 +185,7 @@ This first draft is heavily based on to this wonderful article about creating a 
 
 <a name="step14" />
 ### Step 14: Deploy the live app
-- Reuse settings from the previous environments
+- Reuse settings from existing environments
 
 ## Tips
 - If possible always try to work something/progress and then gain feedback. It’s better to have something to work with and make better than a blank paper
