@@ -113,6 +113,7 @@ This first draft is heavily based on to this wonderful article about creating a 
     - List user stories
         - Tasks underneath them
             - In Github you can list tasks to do with checkboxes
+        - Split user story for frontend and backend
     - List bugs
     - Other things to do
 - Have an "icebox"
@@ -128,36 +129,29 @@ This first draft is heavily based on to this wonderful article about creating a 
 <a name="step8" />
 ### Step 8: CI/CD pipeline & environments
 - Have CI/CD pipeline right from the start
-- Create dev/staging environments where you can demo your progress
+    - Automatic builds
+        - Tests
+        - Code analysis
+        - Deployments
+- Create dev/staging environments where you can demo your progress with the app
 
 <a name="step9" />
-### Step 9: Choose & download boilerplate
-- Choose frameworks, tools for the project
+### Step 9: Tools & frameworks
+- Choose tools & frameworks for the project
     - Try not to reinvent the wheel
 
 <a name="step10" />
 ### Step 11: Code out the features
-- Implement the functionality of the app
-    - From wireframe
-    - From user stories
-    - Both front-end and back-end
-- Example features:
-    - ability to create new goals, milestones, and checkins
-    - ability to delete goals, milestones, and checkins
-    - ability to change a timeline’s name, color, and details
-    - ability to zoom in on timelines
-    - ability to add links to resources
-    - ability to upload media
-    - ability to bubble up resources and media from milestones and checkins to their associated goals
-    - rich text editor integration
-    - user signup / authentication / OAuth
-    - popover to view timeline options
-    - loading screens
+- It's coding time!
+- Start implementing the functionality of the app
+    - Pick a user story
+    - User wireframe/design as your guide
+    - If any questions, collaborate with the customer
 - Don't forget to do tests!
+    - TDD, BDD
     - Unit tests
     - Integration tests
     - End to end tests
-- It's coding time!
 
 <a name="step11" />
 ### Step 11: Language support, texts, content
@@ -171,15 +165,14 @@ This first draft is heavily based on to this wonderful article about creating a 
 
 <a name="step12" />
 ### Step 12: Choose and code the design scheme
-- When the MVP of the functionality is done, clean it up and make it pretty
-- It's time to make the app look cool
+- When the MVP of the functionality is done, clean it up and make it look nice!
 
 <a name="step13" />
-### Step 13: Find and squash bugs
-- Simulate every user flow
+### Step 13: Finalizing
 - Fix bugs
+- Try to simulate every user flow
 - Might not be the most systematic phase
-    - Kanban?
+    - Switch to Kanban?
 
 <a name="step14" />
 ### Step 14: Deploy the live app
@@ -190,3 +183,18 @@ This first draft is heavily based on to this wonderful article about creating a 
     - Fear of braking up things
     - This would be ideal
 - Unawarness is your worst enemy
+- Embrace: app first, tech second
+
+### Recources
+- Example user stories:
+    - ability to create new goals, milestones, and checkins
+    - ability to delete goals, milestones, and checkins
+    - ability to change a timeline’s name, color, and details
+    - ability to zoom in on timelines
+    - ability to add links to resources
+    - ability to upload media
+    - ability to bubble up resources and media from milestones and checkins to their associated goals
+    - rich text editor integration
+    - user signup / authentication / OAuth
+    - popover to view timeline options
+    - loading screens
