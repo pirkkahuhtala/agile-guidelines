@@ -11,16 +11,17 @@ This first draft is heavily based on to this wonderful article about creating a 
 <hr />
 ## Table of contents
 * [Step 1: Ideate/brainstorming/QA](#step1) 
-* [Step 2: Create domain model](#step2)
-* [Step 3: Wireframe UX/UI](#step3)
-* [Step 4: Build a proof of concept](#step4)
-* [Step 5: Set up Github and an agile workflow](#step5)
-* [Step 6: Choose & download boilerplate](#step6)
-* [Step 7: Write back-end API routes](#step7)
-* [Step 8: Code out the features](#step8)
-* [Step 9: Choose and code the design scheme](#step9)
-* [Step 10: Find and squash bugs](#step10)
-* [Step 11: Deploy the live app](#step10)
+* [Step 2: Create user stories](#step2)
+* [Step 3: Create domain model](#step3)
+* [Step 4: Wireframe UX/UI](#step4)
+* [Step 5: Build a proof of concept](#step5)
+* [Step 6: Set up Github and an agile workflow](#step6)
+* [Step 7: Choose & download boilerplate](#step7)
+* [Step 8: Write back-end API routes](#step8)
+* [Step 9: Code out the features](#step9)
+* [Step 10: Choose and code the design scheme](#step10)
+* [Step 11: Find and squash bugs](#step11)
+* [Step 12: Deploy the live app](#step12)
 <hr />
 <a name="step1" />
 ### Step 1: Ideate/brainstorming/QA
@@ -30,7 +31,7 @@ This first draft is heavily based on to this wonderful article about creating a 
     - These are the requirements/specs
         - Things that everybody are asking
 - Question: To whom you're building the app?
-    - ### Hackathon, home project, no specific idea yet?
+    - Hackathon, home project, no specific idea yet?
         - Gather ideas you’re excited about
         - Maybe a past app you've been thrilled about?
         - Post it brainstorming strategy
@@ -42,12 +43,8 @@ This first draft is heavily based on to this wonderful article about creating a 
         - Sort ideas to categories
             - You will find themes
             - Find connections between them and you may have an high level idea of the app?
-        - Create user stories
-            - Features of the application
-            - Naturally the first ones might be epics (long user stories)
-                - Try to crush em down
-                    - Put user stories under epics
-    - ### Customer 
+    - Real customer
+
         - Has some kind of vision?
         - Have a QA meeting
             - What the customer really wants?
@@ -65,31 +62,43 @@ This first draft is heavily based on to this wonderful article about creating a 
             - Repeat
 
 <a name="step2" />
-### Step 2: Create domain model
+### Step 2: Create user stories
+- After ideating/QA summarize/write down user stories
+    - These are the features of the application
+- Naturally the first ones might be epics (long user stories)
+    - Try to crush em down
+        - Put user stories under epics
+        
+<a name="step3" />
+### Step 3: Create domain model
 - Based on user stories, create domain model
     - A list of entities and their attributes
 - Find and form relationships between the entities
 
-<a name="step3" />
-### Step 3: Wireframe UX/UI
+<a name="step4" />
+### Step 4: Wireframe UX/UI
 - Draw raw basic view of the app
 - Incorporate user stories so you can understand how the views work
 - If possible, make friends with a designer or hire one or ask your boss to hire one
 
-<a name="step4" />
-### Step 4: Build a proof of concept
+<a name="step5" />
+### Step 5: Build a proof of concept
 - Create proof of concept of the most difficult fundamental features of the app
 - This demonstrates that the app can actually be done
 
 <a name="step5" />
-### Step 5: Set up Github and an agile workflow
-- Stay organised, practice agile development
-- Set up Github repo, prevent merging to master
+### Step 6: Set up Github and an agile workflow
+- Stay organised by practicing agile development
+- Set up Github repo
+    - Prevent merging to master
     - Force reviewing each other's code
 - Create agile board
+    - List themes
+    - List milestones
+    - List epics
     - List user stories
-    - List bugs we need to fix
-- Create git branches from user stories/features
+    - List bugs
+- Create git branches from user stories
     - Maybe too big branches?
 - Hold stand-up meeting of previous day's progress and any blockers we're encountering
     - This meeting often decided the day's flow
@@ -97,20 +106,26 @@ This first draft is heavily based on to this wonderful article about creating a 
 - Define priorities
 - Make efficient progress
     - No interpersonal conflict
-- Create CI/CD? Travis CI?
+- Create CI/CD pipeline
+- Create staging environment
 - Language support?
+    - Who decides the UI texts
+        - Labels
+        - Warning
+        - Alerts
+        - Content in general
 
-<a name="step6" />
-### Step 6: Choose & download boilerplate
+<a name="step7" />
+### Step 7: Choose & download boilerplate
 - Choose frameworks, tools for the project
     - Try not to reinvent the wheel
 
-<a name="step7" />
-### Step 7: Write back-end API routes
+<a name="step8" />
+### Step 8: Write back-end API routes
 - Implement connection from API to the DB
 
-<a name="step8" />
-### Step 8: Code out the features
+<a name="step9" />
+### Step 9: Code out the features
 - Implement the functionality of the app
     - From wireframe
     - From user stories
@@ -133,20 +148,20 @@ This first draft is heavily based on to this wonderful article about creating a 
     - End to end tests
 - It's coding time!
 
-<a name="step9" />
-### Step 9: Choose and code the design scheme
+<a name="step10" />
+### Step 10: Choose and code the design scheme
 - When the MVP of the functionality is done, clean it up and make it pretty
 - It's time to make the app look cool
 
-<a name="step10" />
-### Step 10: Find and squash bugs
+<a name="step11" />
+### Step 11: Find and squash bugs
 - Simulate every user flow
 - Fix bugs
 - Might not be the most systematic phase
     - Kanban?
 
-<a name="step11" />
-### Step 11: Deploy the live app
+<a name="step12" />
+### Step 12: Deploy the live app
 
 ## Tips
 - If possible always try to work something/progress and then gain feedback. It’s better to have something to work with and make better than a blank paper
