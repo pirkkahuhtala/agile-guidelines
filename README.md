@@ -117,6 +117,9 @@ This first draft is heavily based on to this wonderful article about creating a 
         - What to do next
 - Prioritise prioritise!
     - It's important to proceed with the most important things
+- Iterate iterate!
+    - For every sprint try to deliver working application
+    - Try not to do everyting at once but with small steps
 
 <a name="step7" />
 ### Step 07: Start working with the UX/UI design
