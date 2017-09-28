@@ -11,21 +11,46 @@ This first draft is heavily based on to this wonderful article about creating a 
 <hr />
 
 ### Step 1: Ideate
-- What we exactly want to build
-    - Post it brainstorming strategy
-        - Scribble out as many ideas as we can, even stupid ones
-            - Brains keep moving
-            - Voicing ideas out of fear
-    - Sort ideas in categories
-        - You will find themes
-            - From here create user stories
-                - Those are descriptions of features we wanted to have
-                    - From end-user perspective
-            - Maybe first epics then user stories?
+- Question: What we exactly want to build?
+    - It's the most difficult question
+        - You have to remind this yourself for the whole project lifetime
+    - Hackathon, home project, no specific idea yet?
+        - Gather ideas you’re excited about
+        - Maybe a past app you've been thrilled about?
+        - Post it brainstorming strategy
+            - Scribble out as many ideas as you can
+            - Even ”stupid” ones
+                - Brains keep moving
+                - Voicing ideas out of fear
+                - Never fear opening your mouth to say something
+        - Sort ideas to categories
+            - You will find themes
+            - Find connections between them and you may have an high level idea of the app?
+        - Create user stories
+            - Features of the application
+            - Naturally the first ones might be epics (long user stories)
+                - Try to crush em down
+                    - Put user stories under epics
+    - Customer has somekind of vision?
+        - Have a QA meeting
+            - What the customer really wants?
+                - Usually they don't know it
+                    - Only a big picture
+            - Listen to the customer and write down features
+                - Gain user stories
+                - Ask question, a lot
+                - Propose your own thoughts also
+            - Listen to the nouns customer is using
+                - You might find domain entities
+            - Ask what are the most important features they want to have on it?
+                - Plan MVP
+                    - Maybe not in the first QA
+            - Repeat
 
 ### Step 2: Wireframe UX/UI
-- Draw ra basic view of the app
+- Draw raw basic view of the app
 - Incorporate user stories so you can understand how the views work
+- If possible, make friends with a designer or hire one or ask your boss to hire one
 
 ### Step 3: Choose a data structure and type of database
 - Based on wireframes and user stories, create domain model, a list of entities and their attributes
