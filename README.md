@@ -20,9 +20,8 @@ This first draft is heavily based on to this wonderful article about creating a 
 * [Step 08: CI/CD pipeline & environments](#step8)
 * [Step 09: Tooling](#step9)
 * [Step 10: Code out the features](#step11)
-* [Step 11: Choose and code the design scheme](#step12)
-* [Step 12: Find and squash bugs](#step13)
-* [Step 13: Deploy the live app](#step14)
+* [Step 11: Finalizing](#step13)
+* [Step 12: Deploy the live app](#step14)
 <hr />
 <a name="step1" />
 ### Step 1: Ideate/brainstorming/QA
@@ -167,18 +166,15 @@ This first draft is heavily based on to this wonderful article about creating a 
 - Create a service?
 
 <a name="step12" />
-### Step 12: Choose and code the design scheme
+### Step 12: Finalizing
 - When the MVP of the functionality is done, clean it up and make it look nice!
-
-<a name="step13" />
-### Step 13: Finalizing
 - Fix bugs
 - Try to simulate every user flow
 - Might not be the most systematic phase
     - Switch to Kanban?
 
-<a name="step14" />
-### Step 14: Deploy the live app
+<a name="step13" />
+### Step 13: Deploy the live app
 
 ## Tips
 - If possible always try to work something/progress and then gain feedback. It’s better to have something to work with and make better than a blank paper
