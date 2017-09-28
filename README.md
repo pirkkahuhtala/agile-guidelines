@@ -195,6 +195,8 @@ This first draft is heavily based on to this wonderful article about creating a 
 ### Step 14: Deploy the live app
 - Reuse settings from existing environments
 
+## Repeat :)
+
 ## Tips
 - If possible always try to work something/progress and then gain feedback. It’s better to have something to work with and make better than a blank paper
 - You cannot refactor if there is no tests
