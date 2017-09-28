@@ -17,7 +17,7 @@ This first draft is heavily based on to this wonderful article about creating a 
 * [Step 5: Build a proof of concept (POC)](#step5)
 * [Step 6: Set up version control](#step6)
 * [Step 7: Embrace agile workflow](#step7)
-* [Step 8: CI/CD pipeline & dev/stating environtments](#step8)
+* [Step 8: CI/CD pipeline & environtments](#step8)
 * [Step 9: Choose & download boilerplate](#step9)
 * [Step 10: Write back-end API routes](#step10)
 * [Step 11: Code out the features](#step11)
@@ -46,14 +46,13 @@ This first draft is heavily based on to this wonderful article about creating a 
             - You will find themes
             - Find connections between them and you may have an high level idea of the app?
     - Real customer
-
         - Has some kind of vision?
         - Have a QA meeting
             - What the customer really wants?
                 - Usually they don't know it
                     - Only a big picture
             - Listen to the customer and write down features
-                - Gain user stories
+                - Gain user stories/use cases
                 - Ask question, a lot
                 - Propose your own thoughts also
             - Listen to the nouns customer is using
@@ -122,33 +121,26 @@ This first draft is heavily based on to this wonderful article about creating a 
 - Hold stand-up meetings
     - Have discussion about
         - Previous day's progress
-        - Possible blockers
+        - Encountered blockers
         - What to do next
 - Prioritise prioritise!
     - It's important to proceed with the most important things
-- Unawarness is your worst enemy
 
 <a name="step8" />
-### Step 8: CI/CD pipeline & dev/stating environtments
+### Step 8: CI/CD pipeline & environtments
 - Have CI/CD pipeline right from the start
 - Create dev/staging environments where you can demo your progress
-- Language support?
-    - Who decides the UI texts
-        - Labels
-        - Warning
-        - Alerts
-        - Content in general
 
 <a name="step9" />
 ### Step 9: Choose & download boilerplate
 - Choose frameworks, tools for the project
     - Try not to reinvent the wheel
 
-<a name="step9" />
+<a name="step10" />
 ### Step 10: Write back-end API routes
 - Implement connection from API to the DB
 
-<a name="step10" />
+<a name="step11" />
 ### Step 11: Code out the features
 - Implement the functionality of the app
     - From wireframe
@@ -172,23 +164,34 @@ This first draft is heavily based on to this wonderful article about creating a 
     - End to end tests
 - It's coding time!
 
-<a name="step11" />
-### Step 12: Choose and code the design scheme
+<a name="step12" />
+### Step 12: Language support, texts, content
+    - Who decides the UI texts
+        - Labels
+        - Warning
+        - Alerts
+        - Content in general
+    - Centralised lang file?
+    - Create a service?
+
+<a name="step13" />
+### Step 13: Choose and code the design scheme
 - When the MVP of the functionality is done, clean it up and make it pretty
 - It's time to make the app look cool
 
-<a name="step12" />
-### Step 13: Find and squash bugs
+<a name="step14" />
+### Step 14: Find and squash bugs
 - Simulate every user flow
 - Fix bugs
 - Might not be the most systematic phase
     - Kanban?
 
-<a name="step14" />
-### Step 14: Deploy the live app
+<a name="step15" />
+### Step 15: Deploy the live app
 
 ## Tips
 - If possible always try to work something/progress and then gain feedback. It’s better to have something to work with and make better than a blank paper
 - You cannot refactor if there is no tests
     - Fear of braking up things
     - This would be ideal
+- Unawarness is your worst enemy
