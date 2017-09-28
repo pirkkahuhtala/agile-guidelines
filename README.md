@@ -15,13 +15,14 @@ This first draft is heavily based on to this wonderful article about creating a 
 * [Step 03: Domain model (the business)](#step3)
 * [Step 04: Wireframe UX/UI](#step4)
 * [Step 05: Build a proof of concept (POC)](#step5)
-* [Step 06: Set up version control](#step6)
-* [Step 07: Embrace agile workflow](#step7)
-* [Step 08: CI/CD pipeline & environments](#step8)
-* [Step 09: Tooling](#step9)
-* [Step 10: Code out the features](#step11)
-* [Step 11: Finalizing](#step13)
-* [Step 12: Deploy the live app](#step14)
+* [Step 06: Embrace agile workflow](#step6)
+* [Step 07: Start working with the UX/UI design](#step7)
+* [Step 08: Set up version control](#step8)
+* [Step 09: CI/CD pipeline & environments](#step9)
+* [Step 10: Tooling](#step10)
+* [Step 11: Code out the features](#step11)
+* [Step 12: Finalizing](#step12)
+* [Step 13: Deploy the live app](#step13)
 <hr />
 <a name="step1" />
 ### Step 1: Ideate/brainstorming/QA
@@ -85,17 +86,9 @@ This first draft is heavily based on to this wonderful article about creating a 
 ### Step 5: Build a proof of concept (POC)
 - Create proof of concept of the most difficult fundamental features of the app
     - This demonstrates that the it can actually be done
-
-<a name="step6" />
-### Step 6: Set up version control
-- Set up Github/etc. repo for the code
-    - Prevent merging to master
-    - Force reviewing each other's code
-        - Code review
-    - Create git branches from user stories
     
-<a name="step7" />
-### Step 7: Embrace agile workflow
+<a name="step6" />
+### Step 6: Embrace agile workflow
 - Stay organised by practicing agile development
     - Scrum
         - If you know what to do next two weeks
@@ -125,8 +118,24 @@ This first draft is heavily based on to this wonderful article about creating a 
 - Prioritise prioritise!
     - It's important to proceed with the most important things
 
+<a name="step7" />
+### Step 07: Start working with the UX/UI design
+- Start working with the actual UI design
+- Create a styleguide
+- Unified feeling throught the whole app
+- Ask help from a designer
+    - Tell your boss you need a real UX/UI designer
+
 <a name="step8" />
-### Step 8: CI/CD pipeline & environments
+### Step 8: Set up version control
+- Set up Github/etc. repo for the code
+    - Prevent merging to master
+    - Force reviewing each other's code
+        - Code review
+    - Create git branches from user stories
+
+<a name="step9" />
+### Step 9: CI/CD pipeline & environments
 - Have CI/CD pipeline right from the start
     - Automatic builds
         - Tests
@@ -134,13 +143,13 @@ This first draft is heavily based on to this wonderful article about creating a 
         - Deployments
 - Create dev/staging environments where you can demo your progress with the app
 
-<a name="step9" />
-### Step 9: Tooling
+<a name="step10" />
+### Step 10: Tooling
 - Choose tools & frameworks for the project
     - Try not to reinvent the wheel
 
-<a name="step10" />
-### Step 10: Code out the features
+<a name="step11" />
+### Step 11: Code out the features
 - It's coding time!
 - Decide architecture
     - Embrace package by feature
@@ -155,8 +164,8 @@ This first draft is heavily based on to this wonderful article about creating a 
     - Integration tests
     - End to end tests
 
-<a name="step11" />
-### Step 11: Language support, texts, content
+<a name="step12" />
+### Step 12: Language support, texts, content
 - Who decides the UI texts
     - Labels
     - Warning
@@ -165,16 +174,16 @@ This first draft is heavily based on to this wonderful article about creating a 
 - Centralised lang file?
 - Create a service?
 
-<a name="step12" />
-### Step 12: Finalizing
+<a name="step13" />
+### Step 13: Finalizing
 - When the MVP of the functionality is done, clean it up and make it look nice!
 - Fix bugs
 - Try to simulate every user flow
 - Might not be the most systematic phase
     - Switch to Kanban?
 
-<a name="step13" />
-### Step 13: Deploy the live app
+<a name="step14" />
+### Step 14: Deploy the live app
 
 ## Tips
 - If possible always try to work something/progress and then gain feedback. It’s better to have something to work with and make better than a blank paper
