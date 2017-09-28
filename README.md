@@ -13,7 +13,7 @@ This first draft is heavily based on to this wonderful article about creating a 
 ### Step 1: Ideate/brainstorming/QA
 - Question: What we exactly want to build?
     - It's the most difficult question
-        - You have to remind this yourself for the whole project lifetime
+        - You have to remind this for yourself for the whole project lifetime
     - These are the requirements/specs
         - Things that everybody are asking
 - Question: To whom you're building the app?
