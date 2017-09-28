@@ -158,13 +158,13 @@ This first draft is heavily based on to this wonderful article about creating a 
 
 <a name="step11" />
 ### Step 11: Language support, texts, content
-    - Who decides the UI texts
-        - Labels
-        - Warning
-        - Alerts
-        - Content in general
-    - Centralised lang file?
-    - Create a service?
+- Who decides the UI texts
+    - Labels
+    - Warning
+    - Alerts
+    - Content in general
+- Centralised lang file?
+- Create a service?
 
 <a name="step12" />
 ### Step 12: Choose and code the design scheme
