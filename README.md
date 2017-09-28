@@ -123,6 +123,8 @@ This first draft is heavily based on to this wonderful article about creating a 
 - Learn to say NO and what is not actually possible
 - Estimate with half-a-day, a day and two days
     - Not in hours
+- Have retros
+    - Refine ne process during the journey
 
 <a name="step7" />
 ### Step 07: Start working with the UX/UI design
