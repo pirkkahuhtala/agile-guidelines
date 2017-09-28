@@ -143,6 +143,8 @@ This first draft is heavily based on to this wonderful article about creating a 
 <a name="step10" />
 ### Step 10: Code out the features
 - It's coding time!
+- Decide architecture
+    - Embrace package by feature
 - Start implementing the functionality of the app
     - Pick a user story
     - User wireframe/design as your guide
