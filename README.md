@@ -14,7 +14,7 @@ This first draft is heavily based on to this wonderful article about creating a 
 * [Step 2: User stories (the features)](#step2)
 * [Step 3: Domain model (the business)](#step3)
 * [Step 4: Wireframe UX/UI](#step4)
-* [Step 5: Build a proof of concept](#step5)
+* [Step 5: Build a proof of concept (POC)](#step5)
 * [Step 6: Set up version control](#step6)
 * [Step 7: Embrace agile workflow](#step7)
 * [Step 8: Choose & download boilerplate](#step8)
@@ -84,7 +84,7 @@ This first draft is heavily based on to this wonderful article about creating a 
 - If possible, make friends with a designer or hire one or ask your boss to hire one
 
 <a name="step5" />
-### Step 5: Build a proof of concept
+### Step 5: Build a proof of concept (POC)
 - Create proof of concept of the most difficult fundamental features of the app
 - This demonstrates that the app can actually be done
 
