@@ -19,11 +19,10 @@ This first draft is heavily based on to this wonderful article about creating a 
 * [Step 7: Embrace agile workflow](#step7)
 * [Step 8: CI/CD pipeline & environments](#step8)
 * [Step 9: Choose & download boilerplate](#step9)
-* [Step 10: Write back-end API routes](#step10)
-* [Step 11: Code out the features](#step11)
-* [Step 12: Choose and code the design scheme](#step12)
-* [Step 13: Find and squash bugs](#step13)
-* [Step 14: Deploy the live app](#step14)
+* [Step 10: Code out the features](#step11)
+* [Step 11: Choose and code the design scheme](#step12)
+* [Step 12: Find and squash bugs](#step13)
+* [Step 13: Deploy the live app](#step14)
 <hr />
 <a name="step1" />
 ### Step 1: Ideate/brainstorming/QA
@@ -137,10 +136,6 @@ This first draft is heavily based on to this wonderful article about creating a 
     - Try not to reinvent the wheel
 
 <a name="step10" />
-### Step 10: Write back-end API routes
-- Implement connection from API to the DB
-
-<a name="step11" />
 ### Step 11: Code out the features
 - Implement the functionality of the app
     - From wireframe
@@ -164,8 +159,8 @@ This first draft is heavily based on to this wonderful article about creating a 
     - End to end tests
 - It's coding time!
 
-<a name="step12" />
-### Step 12: Language support, texts, content
+<a name="step11" />
+### Step 11: Language support, texts, content
     - Who decides the UI texts
         - Labels
         - Warning
@@ -174,20 +169,20 @@ This first draft is heavily based on to this wonderful article about creating a 
     - Centralised lang file?
     - Create a service?
 
-<a name="step13" />
-### Step 13: Choose and code the design scheme
+<a name="step12" />
+### Step 12: Choose and code the design scheme
 - When the MVP of the functionality is done, clean it up and make it pretty
 - It's time to make the app look cool
 
-<a name="step14" />
-### Step 14: Find and squash bugs
+<a name="step13" />
+### Step 13: Find and squash bugs
 - Simulate every user flow
 - Fix bugs
 - Might not be the most systematic phase
     - Kanban?
 
-<a name="step15" />
-### Step 15: Deploy the live app
+<a name="step14" />
+### Step 14: Deploy the live app
 
 ## Tips
 - If possible always try to work something/progress and then gain feedback. It’s better to have something to work with and make better than a blank paper
