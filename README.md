@@ -51,12 +51,12 @@ This first draft is heavily based on to this wonderful article about creating a 
                     - Maybe not in the first QA
             - Repeat
 
-#### Step 2: Create domain model
+### Step 2: Create domain model
 - Based on user stories, create domain model
     - A list of entities and their attributes
 - Find and form relationships between the entities
 
-#### Step 3: Wireframe UX/UI
+### Step 3: Wireframe UX/UI
 - Draw raw basic view of the app
 - Incorporate user stories so you can understand how the views work
 - If possible, make friends with a designer or hire one or ask your boss to hire one
