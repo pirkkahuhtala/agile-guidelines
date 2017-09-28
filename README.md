@@ -15,13 +15,14 @@ This first draft is heavily based on to this wonderful article about creating a 
 * [Step 3: Domain model (the business)](#step3)
 * [Step 4: Wireframe UX/UI](#step4)
 * [Step 5: Build a proof of concept](#step5)
-* [Step 6: Set up Github and an agile workflow](#step6)
-* [Step 7: Choose & download boilerplate](#step7)
-* [Step 8: Write back-end API routes](#step8)
-* [Step 9: Code out the features](#step9)
-* [Step 10: Choose and code the design scheme](#step10)
-* [Step 11: Find and squash bugs](#step11)
-* [Step 12: Deploy the live app](#step12)
+* [Step 6: Set up version control](#step6)
+* [Step 7: Embrace agile workflow](#step7)
+* [Step 8: Choose & download boilerplate](#step8)
+* [Step 9: Write back-end API routes](#step9)
+* [Step 10: Code out the features](#step10)
+* [Step 11: Choose and code the design scheme](#step11)
+* [Step 12: Find and squash bugs](#step12)
+* [Step 13: Deploy the live app](#step13)
 <hr />
 <a name="step1" />
 ### Step 1: Ideate/brainstorming/QA
@@ -87,12 +88,15 @@ This first draft is heavily based on to this wonderful article about creating a 
 - Create proof of concept of the most difficult fundamental features of the app
 - This demonstrates that the app can actually be done
 
-<a name="step5" />
-### Step 6: Set up Github and an agile workflow
-- Stay organised by practicing agile development
-- Set up Github repo
+<a name="step6" />
+### Step 6: Set up version control
+- Set up Github/etc. repo for the code
     - Prevent merging to master
     - Force reviewing each other's code
+    
+<a name="step7" />
+### Step 7: Embrace agile workflow
+- Stay organised by practicing agile development
 - Create agile board
     - List themes
     - List milestones
@@ -116,17 +120,17 @@ This first draft is heavily based on to this wonderful article about creating a 
         - Alerts
         - Content in general
 
-<a name="step7" />
-### Step 7: Choose & download boilerplate
+<a name="step8" />
+### Step 8: Choose & download boilerplate
 - Choose frameworks, tools for the project
     - Try not to reinvent the wheel
 
-<a name="step8" />
-### Step 8: Write back-end API routes
+<a name="step9" />
+### Step 9: Write back-end API routes
 - Implement connection from API to the DB
 
-<a name="step9" />
-### Step 9: Code out the features
+<a name="step10" />
+### Step 10: Code out the features
 - Implement the functionality of the app
     - From wireframe
     - From user stories
@@ -149,20 +153,23 @@ This first draft is heavily based on to this wonderful article about creating a 
     - End to end tests
 - It's coding time!
 
-<a name="step10" />
-### Step 10: Choose and code the design scheme
+<a name="step11" />
+### Step 11: Choose and code the design scheme
 - When the MVP of the functionality is done, clean it up and make it pretty
 - It's time to make the app look cool
 
-<a name="step11" />
-### Step 11: Find and squash bugs
+<a name="step12" />
+### Step 12: Find and squash bugs
 - Simulate every user flow
 - Fix bugs
 - Might not be the most systematic phase
     - Kanban?
 
-<a name="step12" />
-### Step 12: Deploy the live app
+<a name="step13" />
+### Step 13: Deploy the live app
 
 ## Tips
 - If possible always try to work something/progress and then gain feedback. It’s better to have something to work with and make better than a blank paper
+- You cannot refactor if there is no tests
+    - Fear of braking up things
+    - This would be ideal
