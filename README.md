@@ -11,7 +11,7 @@ This first draft is heavily based on to this wonderful article about creating a 
 <hr />
 ## Table of contents
 * [Step 1: Ideate/brainstorming/QA](#step1) 
-* [Step 2: Step 2: User stories (the features)](#step2)
+* [Step 2: User stories (the features)](#step2)
 * [Step 3: Domain model (the business)](#step3)
 * [Step 4: Wireframe UX/UI](#step4)
 * [Step 5: Build a proof of concept](#step5)
