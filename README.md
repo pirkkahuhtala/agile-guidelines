@@ -141,7 +141,7 @@ This first draft is heavily based on to this wonderful article about creating a 
     - Try not to reinvent the wheel
 
 <a name="step10" />
-### Step 11: Code out the features
+### Step 10: Code out the features
 - It's coding time!
 - Start implementing the functionality of the app
     - Pick a user story
