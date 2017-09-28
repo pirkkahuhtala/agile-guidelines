@@ -120,6 +120,9 @@ This first draft is heavily based on to this wonderful article about creating a 
 - Iterate iterate!
     - For every sprint try to deliver working application
     - Try not to do everyting at once but with small steps
+- Learn to say NO and what is not actually possible
+- Estimate with half-a-day, a day and two days
+    - Not in hours
 
 <a name="step7" />
 ### Step 07: Start working with the UX/UI design
