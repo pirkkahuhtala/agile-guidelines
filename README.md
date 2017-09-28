@@ -17,7 +17,7 @@ This first draft is heavily based on to this wonderful article about creating a 
 * [Step 5: Build a proof of concept (POC)](#step5)
 * [Step 6: Set up version control](#step6)
 * [Step 7: Embrace agile workflow](#step7)
-* [Step 8: CI/CD pipeline & environtments](#step8)
+* [Step 8: CI/CD pipeline & environments](#step8)
 * [Step 9: Choose & download boilerplate](#step9)
 * [Step 10: Write back-end API routes](#step10)
 * [Step 11: Code out the features](#step11)
@@ -127,7 +127,7 @@ This first draft is heavily based on to this wonderful article about creating a 
     - It's important to proceed with the most important things
 
 <a name="step8" />
-### Step 8: CI/CD pipeline & environtments
+### Step 8: CI/CD pipeline & environments
 - Have CI/CD pipeline right from the start
 - Create dev/staging environments where you can demo your progress
 
