@@ -34,7 +34,7 @@ This first draft is heavily based on to this wonderful article about creating a 
             - Naturally the first ones might be epics (long user stories)
                 - Try to crush em down
                     - Put user stories under epics
-    - ### Real customer 
+    - ### Customer 
         - Has some kind of vision?
         - Have a QA meeting
             - What the customer really wants?
@@ -57,8 +57,9 @@ This first draft is heavily based on to this wonderful article about creating a 
 - If possible, make friends with a designer or hire one or ask your boss to hire one
 
 ### Step 3: Choose a data structure and type of database
-- Based on wireframes and user stories, create domain model, a list of entities and their attributes
-- Form relationships between the models/entities
+- Based on wireframes and user stories, QA, create domain model
+    - A list of entities, their attributes
+    - Form relationships between the entities
 
 ### Step 4: Set up Github and an agile workflow
 - Stay organised, practice agile development
