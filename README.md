@@ -112,14 +112,14 @@ This first draft is heavily based on to this wonderful article about creating a 
     - List bugs
     - Other things to do
 - Have an "icebox"
-        - A column for ideas
+        - A column for future features, wacky ideas
 - Hold stand-up meetings
     - Have discussion about
         - Previous day's progress
         - Possible blockers
         - What to do next
-- Define priorities
-    - It's important to prioritise things
+- Prioritise prioritise!
+    - It's important to proceed with the most important things
 - Unawarness is your worst enemy
 - Create CI/CD pipeline
 - Create staging environment
