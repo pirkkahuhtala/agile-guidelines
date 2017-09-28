@@ -10,6 +10,22 @@ This first draft is heavily based on to this wonderful article about creating a 
 <https://medium.com/ladies-storm-hackathons/how-we-built-our-first-full-stack-javascript-web-app-in-three-weeks-8a4668dbd67c>
 <hr />
 
+<hr />
+
+## Table of contents
+[Step 1: Ideate/brainstorming/QA](#step1) 
+[Step 2: Create domain model](#step2)
+[Step 3: Wireframe UX/UI](#step3)
+[Step 4: Build a proof of concept](#step4)
+[Step 5: Set up Github and an agile workflow](#step5)
+[Step 6: Choose & download boilerplate](#step6)
+[Step 7: Write back-end API routes](#step7)
+[Step 8: Code out the features](#step8)
+[Step 9: Choose and code the design scheme](#step9)
+[Step: 10 Find and squash bugs](#step10)
+[Step 11: Deploy the live app](#step10)
+
+<a name="step1" />
 ### Step 1: Ideate/brainstorming/QA
 - Question: What we exactly want to build?
     - It's the most difficult question
@@ -51,20 +67,24 @@ This first draft is heavily based on to this wonderful article about creating a 
                     - Maybe not in the first QA
             - Repeat
 
+<a name="step2" />
 ### Step 2: Create domain model
 - Based on user stories, create domain model
     - A list of entities and their attributes
 - Find and form relationships between the entities
 
+<a name="step3" />
 ### Step 3: Wireframe UX/UI
 - Draw raw basic view of the app
 - Incorporate user stories so you can understand how the views work
 - If possible, make friends with a designer or hire one or ask your boss to hire one
 
+<a name="step4" />
 ### Step 4: Build a proof of concept
 - Create proof of concept of the most difficult fundamental features of the app
 - This demonstrates that the app can actually be done
 
+<a name="step5" />
 ### Step 5: Set up Github and an agile workflow
 - Stay organised, practice agile development
 - Set up Github repo, prevent merging to master
@@ -83,13 +103,16 @@ This first draft is heavily based on to this wonderful article about creating a 
 - Create CI/CD? Travis CI?
 - Language support?
 
+<a name="step6" />
 ### Step 6: Choose & download boilerplate
 - Choose frameworks, tools for the project
     - Try not to reinvent the wheel
 
+<a name="step7" />
 ### Step 7: Write back-end API routes
 - Implement connection from API to the DB
 
+<a name="step8" />
 ### Step 8: Code out the features
 - Implement the functionality of the app
     - From wireframe
@@ -113,16 +136,19 @@ This first draft is heavily based on to this wonderful article about creating a 
     - End to end tests
 - It's coding time!
 
+<a name="step9" />
 ### Step 9: Choose and code the design scheme
 - When the MVP of the functionality is done, clean it up and make it pretty
 - It's time to make the app look cool
 
+<a name="step10" />
 ### Step: 10 Find and squash bugs
 - Simulate every user flow
 - Fix bugs
 - Might not be the most systematic phase
     - Kanban?
 
+<a name="step11" />
 ### Step 11: Deploy the live app
 
 ## Tips
