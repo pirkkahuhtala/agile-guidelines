@@ -10,11 +10,14 @@ This first draft is heavily based on to this wonderful article about creating a 
 <https://medium.com/ladies-storm-hackathons/how-we-built-our-first-full-stack-javascript-web-app-in-three-weeks-8a4668dbd67c>
 <hr />
 
-### Step 1: Ideate
+### Step 1: Ideate/brainstorming/QA
 - Question: What we exactly want to build?
     - It's the most difficult question
         - You have to remind this yourself for the whole project lifetime
-    - Hackathon, home project, no specific idea yet?
+    - These are the requirements/specs
+        - Things that everybody are asking
+- Question: To whom you're building the app?
+    - ### Hackathon, home project, no specific idea yet?
         - Gather ideas you’re excited about
         - Maybe a past app you've been thrilled about?
         - Post it brainstorming strategy
@@ -31,7 +34,8 @@ This first draft is heavily based on to this wonderful article about creating a 
             - Naturally the first ones might be epics (long user stories)
                 - Try to crush em down
                     - Put user stories under epics
-    - Customer has somekind of vision?
+    - ### Real customer 
+        - Has some kind of vision?
         - Have a QA meeting
             - What the customer really wants?
                 - Usually they don't know it
