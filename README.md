@@ -51,17 +51,21 @@ This first draft is heavily based on to this wonderful article about creating a 
                     - Maybe not in the first QA
             - Repeat
 
-### Step 2: Wireframe UX/UI
+#### Step 2: Create domain model
+- Based on user stories, create domain model
+    - A list of entities and their attributes
+- Find and form relationships between the entities
+
+#### Step 3: Wireframe UX/UI
 - Draw raw basic view of the app
 - Incorporate user stories so you can understand how the views work
 - If possible, make friends with a designer or hire one or ask your boss to hire one
 
-### Step 3: Choose a data structure and type of database
-- Based on wireframes and user stories, QA, create domain model
-    - A list of entities, their attributes
-    - Form relationships between the entities
+### Step 4: Build a proof of concept
+- Create proof of concept of the most difficult fundamental features of the app
+- This demonstrates that the app can actually be done
 
-### Step 4: Set up Github and an agile workflow
+### Step 5: Set up Github and an agile workflow
 - Stay organised, practice agile development
 - Set up Github repo, prevent merging to master
     - Force reviewing each other's code
@@ -79,16 +83,12 @@ This first draft is heavily based on to this wonderful article about creating a 
 - Create CI/CD? Travis CI?
 - Language support?
 
-### Step 5: Choose & download boilerplate
+### Step 6: Choose & download boilerplate
 - Choose frameworks, tools for the project
     - Try not to reinvent the wheel
 
-### Step 6: Write back-end API routes
+### Step 7: Write back-end API routes
 - Implement connection from API to the DB
-
-### Step 7: Build a proof of concept
-- Create prototype of the most difficult fundamental features of the app
-    - Demonstrates that the app can actually be done
 
 ### Step 8: Code out the features
 - Implement the functionality of the app
