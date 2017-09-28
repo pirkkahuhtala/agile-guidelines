@@ -11,8 +11,8 @@ This first draft is heavily based on to this wonderful article about creating a 
 <hr />
 ## Table of contents
 * [Step 1: Ideate/brainstorming/QA](#step1) 
-* [Step 2: Create user stories](#step2)
-* [Step 3: Create domain model](#step3)
+* [Step 2: Step 2: User stories (the features)](#step2)
+* [Step 3: Domain model (the business)](#step3)
 * [Step 4: Wireframe UX/UI](#step4)
 * [Step 5: Build a proof of concept](#step5)
 * [Step 6: Set up Github and an agile workflow](#step6)
@@ -62,7 +62,7 @@ This first draft is heavily based on to this wonderful article about creating a 
             - Repeat
 
 <a name="step2" />
-### Step 2: Create user stories
+### Step 2: User stories (the features)
 - After ideating/QA summarize/write down user stories
     - These are the features of the application
 - Naturally the first ones might be epics (long user stories)
@@ -70,10 +70,11 @@ This first draft is heavily based on to this wonderful article about creating a 
         - Put user stories under epics
         
 <a name="step3" />
-### Step 3: Create domain model
+### Step 3: Domain model (the business)
 - Based on user stories, create domain model
     - A list of entities and their attributes
 - Find and form relationships between the entities
+- Find business rules
 
 <a name="step4" />
 ### Step 4: Wireframe UX/UI
