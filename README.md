@@ -9,9 +9,6 @@ This thing is going to evolve a lot, hopefully as time passes, while I can find 
 This first draft is heavily based on to this wonderful article about creating a JS app from a scratch:
 <https://medium.com/ladies-storm-hackathons/how-we-built-our-first-full-stack-javascript-web-app-in-three-weeks-8a4668dbd67c>
 <hr />
-
-<hr />
-
 ## Table of contents
 * [Step 1: Ideate/brainstorming/QA](#step1) 
 * [Step 2: Create domain model](#step2)
@@ -24,7 +21,7 @@ This first draft is heavily based on to this wonderful article about creating a 
 * [Step 9: Choose and code the design scheme](#step9)
 * [Step 10: Find and squash bugs](#step10)
 * [Step 11: Deploy the live app](#step10)
-
+<hr />
 <a name="step1" />
 ### Step 1: Ideate/brainstorming/QA
 - Question: What we exactly want to build?
