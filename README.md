@@ -13,17 +13,17 @@ This first draft is heavily based on to this wonderful article about creating a 
 <hr />
 
 ## Table of contents
-[Step 1: Ideate/brainstorming/QA](#step1) 
-[Step 2: Create domain model](#step2)
-[Step 3: Wireframe UX/UI](#step3)
-[Step 4: Build a proof of concept](#step4)
-[Step 5: Set up Github and an agile workflow](#step5)
-[Step 6: Choose & download boilerplate](#step6)
-[Step 7: Write back-end API routes](#step7)
-[Step 8: Code out the features](#step8)
-[Step 9: Choose and code the design scheme](#step9)
-[Step: 10 Find and squash bugs](#step10)
-[Step 11: Deploy the live app](#step10)
+* [Step 1: Ideate/brainstorming/QA](#step1) 
+* [Step 2: Create domain model](#step2)
+* [Step 3: Wireframe UX/UI](#step3)
+* [Step 4: Build a proof of concept](#step4)
+* [Step 5: Set up Github and an agile workflow](#step5)
+* [Step 6: Choose & download boilerplate](#step6)
+* [Step 7: Write back-end API routes](#step7)
+* [Step 8: Code out the features](#step8)
+* [Step 9: Choose and code the design scheme](#step9)
+* [Step 10: Find and squash bugs](#step10)
+* [Step 11: Deploy the live app](#step10)
 
 <a name="step1" />
 ### Step 1: Ideate/brainstorming/QA
@@ -142,7 +142,7 @@ This first draft is heavily based on to this wonderful article about creating a 
 - It's time to make the app look cool
 
 <a name="step10" />
-### Step: 10 Find and squash bugs
+### Step 10: Find and squash bugs
 - Simulate every user flow
 - Fix bugs
 - Might not be the most systematic phase
