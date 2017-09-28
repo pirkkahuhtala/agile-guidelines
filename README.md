@@ -64,10 +64,10 @@ This first draft is heavily based on to this wonderful article about creating a 
 
 <a name="step2" />
 ### Step 2: User stories (the features)
-- After ideating/QA summarize/write down user stories
+- Write down user stories
     - These are the features of the application
 - Naturally the first ones might be epics (long user stories)
-    - Try to crush em down
+    - Try to crush em` down
         - Put user stories under epics
         
 <a name="step3" />
@@ -79,38 +79,48 @@ This first draft is heavily based on to this wonderful article about creating a 
 
 <a name="step4" />
 ### Step 4: Wireframe UX/UI
-- Draw raw basic view of the app
+- Draw raw basic view(s) of the app
 - Incorporate user stories so you can understand how the views work
 - If possible, make friends with a designer or hire one or ask your boss to hire one
 
 <a name="step5" />
 ### Step 5: Build a proof of concept (POC)
 - Create proof of concept of the most difficult fundamental features of the app
-- This demonstrates that the app can actually be done
+    - This demonstrates that the it can actually be done
 
 <a name="step6" />
 ### Step 6: Set up version control
 - Set up Github/etc. repo for the code
     - Prevent merging to master
     - Force reviewing each other's code
+        - Code review
+    - Create git branches from user stories
     
 <a name="step7" />
 ### Step 7: Embrace agile workflow
 - Stay organised by practicing agile development
 - Create agile board
-    - List themes
-    - List milestones
-    - List epics
+    - A real whiteboard
+    - Use tools if necessary
+- Create backlog
+    - List milestones (sprints, MVP, production ready etc.)
+    - List themes (A collection of related user stories)
+    - List epics (large user story)
     - List user stories
+        - Tasks underneath them
+            - In Github you can list tasks to do with checkboxes
     - List bugs
-- Create git branches from user stories
-    - Maybe too big branches?
-- Hold stand-up meeting of previous day's progress and any blockers we're encountering
-    - This meeting often decided the day's flow
-        - Who is pair programming, who is working issue solo
+    - Other things to do
+- Have an "icebox"
+        - A column for ideas
+- Hold stand-up meetings
+    - Have discussion about
+        - Previous day's progress
+        - Possible blockers
+        - What to do next
 - Define priorities
-- Make efficient progress
-    - No interpersonal conflict
+    - It's important to prioritise things
+- Unawarness is your worst enemy
 - Create CI/CD pipeline
 - Create staging environment
 - Language support?
